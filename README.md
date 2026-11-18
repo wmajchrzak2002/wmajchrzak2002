@@ -9,7 +9,6 @@ Moving back to **Warsaw**, available from **January 2027**.
 - 🤖 I use Claude Code every day and review every change myself
 
 ### Projects
-| | |
 |---|---|
 | **PCC Forms** | Work orders, equipment checklists and safety documents with signatures and PDFs · [case study](https://wiktormajchrzak.dev/work/pcc-forms/) |
 | **GigMission** | My own app for warehouses, vehicles and event crews · [case study](https://wiktormajchrzak.dev/work/gigmission/) |
