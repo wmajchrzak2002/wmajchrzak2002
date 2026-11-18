@@ -11,11 +11,11 @@ Moving back to **Warsaw**, available from **January 2027**.
 ### Projects
 | | |
 |---|---|
-| **PCC Forms** | Work orders, equipment checklists and safety documents with signatures and PDFs · [case study](https://wiktor-majchrzak.pages.dev/work/pcc-forms/) |
-| **GigMission** | My own app for warehouses, vehicles and event crews · [case study](https://wiktor-majchrzak.pages.dev/work/gigmission/) |
-| **C++ game engine** | Custom 2D engine with 4 rendering backends · [case study](https://wiktor-majchrzak.pages.dev/work/cpp-engine/) |
+| **PCC Forms** | Work orders, equipment checklists and safety documents with signatures and PDFs · [case study](https://wiktormajchrzak.dev/work/pcc-forms/) |
+| **GigMission** | My own app for warehouses, vehicles and event crews · [case study](https://wiktormajchrzak.dev/work/gigmission/) |
+| **C++ game engine** | Custom 2D engine with 4 rendering backends · [case study](https://wiktormajchrzak.dev/work/cpp-engine/) |
 
 Most of my work is in private repos (company code), so the case studies above show it with screenshots and details.
 
 ### Contact
-[Portfolio](https://wiktor-majchrzak.pages.dev) · [LinkedIn](https://www.linkedin.com/in/wiktor-majchrzak-163755449/) · majchrzakwiktor10@gmail.com
+[Portfolio](https://wiktormajchrzak.dev) · [LinkedIn](https://www.linkedin.com/in/wiktor-majchrzak-163755449/) · majchrzakwiktor10@gmail.com
